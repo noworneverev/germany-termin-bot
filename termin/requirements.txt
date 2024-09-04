@@ -1,0 +1,7 @@
+requests
+selenium
+python-telegram-bot==13.7
+bs4
+ddddocr
+python-dotenv
+webdriver_manager
