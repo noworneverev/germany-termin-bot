@@ -2,9 +2,9 @@
 
 My goal is to build all necessary notification channels for securing "Termin" appointments across all cities in Germany, making the process easier and less stressful.
 
-If your city isn't listed, feel free to contact me at [n9102125@gmail.com](mailto:n9102125@gmail.com) or open an issue on the [GitHub repository](https://github.com/noworneverev/germany-termin-bot). Please include the city name and the official "Termin" website. If time allows, I'll do my best to create a channel for your city.
+If your city or certain types of "Termin" aren't listed, feel free to contact me at [n9102125@gmail.com](mailto:n9102125@gmail.com) or open an issue on the [GitHub repository](https://github.com/noworneverev/germany-termin-bot). Please include the city name, the official "Termin" website and the types of appointments. If time allows, I will do my best to add support for your request.
 
-In short, fuck the German Termin system.
+Lastly, fuck the German Termin system.
 
 ## Donate
 
