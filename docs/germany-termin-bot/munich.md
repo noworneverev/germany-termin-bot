@@ -17,10 +17,11 @@ Smooth out your appointment scheduling experience in Munich with the help of not
 | Bürgerbüro Riesenfeldstraße| [https://t.me/riesenfeldstr_anmeldung](https://t.me/riesenfeldstr_anmeldung) |
 | Bürgerbüro Orleansstraße| [https://t.me/orleansstr_anmeldung](https://t.me/orleansstr_anmeldung) |
 
-## Notfall Termin
+## Notfalltermin
 | Telegram Channel Name       | Telegram Channel Link|
 |------------|--------------------------------------------------------------|
-| Munich Notfall Termin| [https://t.me/munich_notfall_termin](https://t.me/munich_notfall_termin) |
+| Munich Notfalltermin (UA35)| [https://t.me/munich_notfall_termin](https://t.me/munich_notfall_termin) |
+| Munich Notfalltermin (UA32)| [https://t.me/munich_notfall_termin2](https://t.me/munich_notfall_termin2) |
 
 ## Github
 https://github.com/noworneverev/munich-termin-bot
