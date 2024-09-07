@@ -12,6 +12,7 @@ Smooth out your appointment scheduling experience in Munich with the help of not
 |------------|--------------------------------------------------------------|
 | Munich Notfalltermin (UA35)| [https://t.me/munich_notfall_termin](https://t.me/munich_notfall_termin) |
 | Munich Notfalltermin (UA32)| [https://t.me/munich_notfall_termin2](https://t.me/munich_notfall_termin2) |
+| Munich Verpflichtungserklärung | [https://t.me/+JFgbBXEGFylkOGMy](https://t.me/+JFgbBXEGFylkOGMy) |
 
 ## An- oder Ummeldung - Einzelperson
 | Place      | Telegram Channel Link|
