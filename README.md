@@ -13,8 +13,8 @@ Smooth out your appointment scheduling experience in Germany with the help of no
       - [Bürgerservice Bahnhofplatz](#bürgerservice-bahnhofplatz)
       - [Bürgerservice Katschhof](#bürgerservice-katschhof)
   - [Munich](#munich)
-    - [An- oder Ummeldung - Einzelperson](#an--oder-ummeldung---einzelperson)
     - [Notfalltermin](#notfalltermin)
+    - [An- oder Ummeldung - Einzelperson](#an--oder-ummeldung---einzelperson)
   - [Donate](#donate)
 
 ## Aachen
@@ -91,6 +91,13 @@ Official site for Aachen: https://noworneverev.github.io/aachen-termin-bot/
 | December   | [https://t.me/+L6l4eytXD9cyZGNi](https://t.me/+L6l4eytXD9cyZGNi) |
 
 ## Munich
+### Notfalltermin
+| Telegram Channel Name       | Telegram Channel Link|
+|------------|--------------------------------------------------------------|
+| Munich Notfalltermin (UA35)| [https://t.me/munich_notfall_termin](https://t.me/munich_notfall_termin) |
+| Munich Notfalltermin (UA32)| [https://t.me/munich_notfall_termin2](https://t.me/munich_notfall_termin2) |
+| Munich Verpflichtungserklärung | [https://t.me/+JFgbBXEGFylkOGMy](https://t.me/+JFgbBXEGFylkOGMy) |
+
 ### An- oder Ummeldung - Einzelperson
 | Place      | Telegram Channel Link|
 |------------|--------------------------------------------------------------|
@@ -100,12 +107,6 @@ Official site for Aachen: https://noworneverev.github.io/aachen-termin-bot/
 | Bürgerbüro Forstenrieder Allee| [https://t.me/forstenrieder_anmeldung](https://t.me/forstenrieder_anmeldung) |
 | Bürgerbüro Riesenfeldstraße| [https://t.me/riesenfeldstr_anmeldung](https://t.me/riesenfeldstr_anmeldung) |
 | Bürgerbüro Orleansstraße| [https://t.me/orleansstr_anmeldung](https://t.me/orleansstr_anmeldung) |
-
-### Notfalltermin
-| Telegram Channel Name       | Telegram Channel Link|
-|------------|--------------------------------------------------------------|
-| Munich Notfalltermin (UA35)| [https://t.me/munich_notfall_termin](https://t.me/munich_notfall_termin) |
-| Munich Notfalltermin (UA32)| [https://t.me/munich_notfall_termin2](https://t.me/munich_notfall_termin2) |
 
 ## Donate
 If you find this project helpful, consider buying me a coffee ☕️    
