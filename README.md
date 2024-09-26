@@ -9,6 +9,8 @@ Smooth out your appointment scheduling experience in Germany with the help of no
   - [Aachen](#aachen)
     - [SuperC Termin](#superc-termin)
     - [Aachen Hbf Termin](#aachen-hbf-termin)
+    - [FH Aachen Termin](#fh-aachen-termin)
+    - [Abholung Aufenthaltserlaubnis Termin](#abholung-aufenthaltserlaubnis-termin)
     - [Aachen Wohnsitz an-/ ab-/ ummelden Termin](#aachen-wohnsitz-an--ab--ummelden-termin)
       - [Bürgerservice Bahnhofplatz](#bürgerservice-bahnhofplatz)
       - [Bürgerservice Katschhof](#bürgerservice-katschhof)
@@ -46,6 +48,26 @@ Official site for Aachen: https://noworneverev.github.io/aachen-termin-bot/
 |------------|--------------------------------------------------------------|
 | Aachen Hbf Termin| [https://t.me/hbf_termin](https://t.me/hbf_termin) |
 
+
+
+### FH Aachen Termin
+
+>This channel is exclusively for students of FH Aachen who are applying for visa extensions.
+
+
+| Telegram Channel Name      | Telegram Channel Link|
+|------------|--------------------------------------------------------------|
+| FH Aachen Termin| [https://t.me/+1EGm6-NDQGM2ODAy](https://t.me/+1EGm6-NDQGM2ODAy) |
+
+
+### Abholung Aufenthaltserlaubnis Termin
+
+>This channel is for Abholung Aufenthaltserlaubnis.
+
+
+| Telegram Channel Name      | Telegram Channel Link|
+|------------|--------------------------------------------------------------|
+| Abholung Aufenthaltserlaubnis Termin| [https://t.me/+1EGm6-NDQGM2ODAy](https://t.me/+1EGm6-NDQGM2ODAy) |
 
 ### Aachen Wohnsitz an-/ ab-/ ummelden Termin
 

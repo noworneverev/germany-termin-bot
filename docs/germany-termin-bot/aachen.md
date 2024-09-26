@@ -38,6 +38,31 @@ Aachen Hbf Link (Aufenthalt, Team 1 to Team 3): https://termine.staedteregion-aa
 | Aachen Hbf Termin| [https://t.me/hbf_termin](https://t.me/hbf_termin) |
 
 
+## FH Aachen Termin
+
+:::info
+
+This channel is exclusively for students of FH Aachen who are applying for visa extensions.
+
+:::
+
+| Telegram Channel Name      | Telegram Channel Link|
+|------------|--------------------------------------------------------------|
+| FH Aachen Termin| [https://t.me/+1EGm6-NDQGM2ODAy](https://t.me/+1EGm6-NDQGM2ODAy) |
+
+
+## Abholung Aufenthaltserlaubnis Termin
+
+:::info
+
+This channel is for Abholung Aufenthaltserlaubnis.
+
+:::
+
+| Telegram Channel Name      | Telegram Channel Link|
+|------------|--------------------------------------------------------------|
+| Abholung Aufenthaltserlaubnis Termin| [https://t.me/+1EGm6-NDQGM2ODAy](https://t.me/+1EGm6-NDQGM2ODAy) |
+
 ## Aachen Wohnsitz an-/ ab-/ ummelden Termin
 
 :::info
