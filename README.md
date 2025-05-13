@@ -115,9 +115,8 @@ Official site for Aachen: https://noworneverev.github.io/aachen-termin-bot/
 ### Notfalltermin
 | Telegram Channel Name       | Telegram Channel Link|
 |------------|--------------------------------------------------------------|
-| Munich Notfalltermin (UA35)| [https://t.me/munich_notfall_termin](https://t.me/munich_notfall_termin) |
-| Munich Notfalltermin (UA32)| [https://t.me/munich_notfall_termin2](https://t.me/munich_notfall_termin2) |
-| Munich Verpflichtungserklärung | [https://t.me/+JFgbBXEGFylkOGMy](https://t.me/+JFgbBXEGFylkOGMy) |
+| Munich Notfalltermin (Studierende, Hochschulabsolvent*innen, Selbstständige)| [https://t.me/munich_notfall](https://t.me/munich_notfall) |
+| Munich Notfalltermin (Beschäftigte, Angehörige)| [https://t.me/munich_notfall_termin2](https://t.me/munich_notfall_termin2) |
 
 
 ## Donate
